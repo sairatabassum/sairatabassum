@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### 👩‍💻  About me
+### 💻 About me
 
 - 🏫 Studying Bsc(Computer Science and Engineering) at Daffodil International University.
 - 💻 Love Programming
