@@ -7,7 +7,7 @@
 
 ### :computer: About me:
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Algorithm & React js
 
 
