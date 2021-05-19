@@ -16,6 +16,9 @@
 
 ### My Github Stats :sparkles:
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange)
+![ Saira GitHub stats](https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=slateorange&hide=php)
+
+
+
 
 
