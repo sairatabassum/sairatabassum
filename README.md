@@ -29,11 +29,13 @@
 <hr>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham"align="left"/>
+  
+<a href="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=gotham" align="left"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&layout=compact&theme=gotham&custom_title=Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&layout=compact&theme=gotham&custom_title=Statistics" align="left"/>
+  
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=gotham" align="left"/>
 </a>
 </div>
 
