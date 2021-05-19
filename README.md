@@ -17,7 +17,6 @@
   </a>
 </p>
 <br>
-<br>
 
 ### 💻 About me
 
@@ -27,7 +26,6 @@
 - 🌱 I’m currently learning Algorithm & React js
 - 💬 Ask me about anything
 
-<br>
 <br>
 
 ### Languages and Tools
