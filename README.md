@@ -5,16 +5,16 @@
 <p>
   
   <a href="https://www.linkedin.com/in/saira-tabassum-6aaaa7202/">
-    <img alt="LinkedIn" title="LinkedIn" height="28" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/linkedin.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="25" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/linkedin.svg">
   </a>
   
   
   <a href="https://www.instagram.com/saira_tabassum_/">
-    <img alt="LinkedIn" title="LinkedIn" height="28" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/instagram.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="26" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/instagram.svg">
   </a>
   
   <a href="https://web.facebook.com/saira.tabassum.98837/">
-    <img alt="Facebook" title="Facebook" height="28" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/facebook.svg">
+    <img alt="Facebook" title="Facebook" height="25" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/facebook.svg">
   </a>
 </p>
 
