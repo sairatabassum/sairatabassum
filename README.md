@@ -9,7 +9,7 @@
   
   
   <a href="https://www.instagram.com/saira_tabassum_/">
-    <img alt="LinkedIn" title="LinkedIn" height="26" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/instagram.svg">
+    <img alt="Instagram" title="Instagram" height="26" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/instagram.svg">
   </a>
   
   <a href="https://web.facebook.com/saira.tabassum.98837/">
