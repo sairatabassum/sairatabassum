@@ -14,9 +14,20 @@
 <hr>
 
 <p align="center">
-saira
+  
+  <a href="https://www.linkedin.com/in/saira-tabassum-6aaaa7202/">
+    <img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/linkedin.svg">
+  </a>
+  
+  
+  <a href="https://www.instagram.com/saira_tabassum_/">
+    <img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/linkedin.svg">
+  </a>
+  
+  <a href="https://web.facebook.com/saira.tabassum.98837/">
+    <img alt="Facebook" title="Facebook" height="30" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/facebook.svg">
+  </a>
 </p>
-
   
 ### My Github Stats :sparkles:
 
