@@ -29,11 +29,11 @@
 <hr>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange" align="left"/>
+<a href="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=default" align="left"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=slateorange">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=slateorange" align="left"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=default" align="left"/>
 </a>
 </div>
 
