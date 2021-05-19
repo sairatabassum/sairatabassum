@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Algorithm & React js
 
-<hr>
+
 
 ### Contact :pushpin:
 
