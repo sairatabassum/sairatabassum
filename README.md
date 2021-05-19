@@ -13,12 +13,19 @@
 
 ### Contact :pushpin:
 
+<hr>
 
 ### My Github Stats :sparkles:
- 
-![ Saira GitHub stats](https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=slateorange&hide=php)
+<hr>
 
-
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange" align="left"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=slateorange">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=slateorange" align="left"/>
+</a>
+</div>
 
 
 
