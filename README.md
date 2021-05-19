@@ -30,32 +30,32 @@
 
 ### Languages and Tools
 
-<a href="https://www.python.org" target="_blank"> <img alt="Python" align="left" width="26px" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/python.svg"/></a>
+<a href="https://www.python.org" target="_blank"> <img alt="Python" align="left" width="26px" title="Python" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/python.svg"/></a>
 
 
-<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img alt="JavaScript" align="left" width="26px" src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/javascript.png"/></a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img alt="JavaScript" align="left" width="26px" title="JavaScript" src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/javascript.png"/></a>
 
 
-<a href="https://www.geeksforgeeks.org/c-programming-language/?ref=ghm" target="_blank"> <img alt="C" align="left" width="32px" height="32px"
+<a href="https://www.geeksforgeeks.org/c-programming-language/?ref=ghm" target="_blank"> <img alt="C" align="left" width="32px" height="32px" title="C"
 src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/c-programming.png"/></a>
 
-<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img alt="C++" align="left" width="26px"
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img alt="C++" align="left" width="26px" title="C++"
 src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/c%2B%2B.png"/></a>
 
 
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img alt="Html" align="left" width="26px" 
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img alt="Html" align="left" width="26px" title="Html"
 src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/html.png"/></a>
 
 
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img alt="Css" align="left" width="26px" 
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img alt="Css" align="left" width="26px" title="Css"
 src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/css.png"/></a>
 
 
-<a href="https://www.w3schools.com/sql/" target="_blank"> <img alt="Sql" align="left" width="26px" height="24px"
+<a href="https://www.w3schools.com/sql/" target="_blank"> <img alt="Sql" align="left" width="26px" height="24px" title="Sql"
 src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/sql-icon-24.jpg"/></a>
 
 
-<a href="https://git-scm.com/" target="_blank"> <img alt="Git" align="left" width="26px" height="24px"
+<a href="https://git-scm.com/" target="_blank"> <img alt="Git" align="left" width="26px" height="24px" title="Git"
 src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Git_icon.png"/></a>
 
 <br>
