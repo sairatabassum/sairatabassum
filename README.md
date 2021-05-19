@@ -1,4 +1,4 @@
-### Hello👋, I'm Saira
+### Hello👋, I'm Saira :octocat:
 
 <hr>
 <!--
@@ -12,5 +12,10 @@
 
 
 ### Contact :pushpin:
+
+
+### My Github Stats :sparkles:
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=slateorange)
 
 
