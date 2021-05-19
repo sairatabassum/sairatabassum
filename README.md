@@ -16,6 +16,8 @@
     <img alt="Facebook" title="Facebook" height="25" width="30" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/facebook.svg">
   </a>
 </p>
+<br>
+<br>
 
 ### 💻 About me
 
@@ -25,8 +27,11 @@
 - 🌱 I’m currently learning Algorithm & React js
 - 💬 Ask me about anything
 
-  
-### My Github Stats :sparkles:
+<br>
+<br>
+
+### Languages and Tools
+
 
 <hr>
 
