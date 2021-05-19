@@ -19,6 +19,7 @@
 
 ### :computer: About me
 
+- 🏫 Studying Bsc(Computer Science and Engineering) at Daffodil International University.
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Algorithm & React js
 - 💬 Ask me about anything
