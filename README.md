@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Algorithm & React js
+- 💬 Ask me about anything
 
 ### Contact :pushpin:
 
