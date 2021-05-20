@@ -4,8 +4,8 @@
 
 
 ### Hey <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Hi.gif" width="25px">
-I'm Saira from Bangladesh and Studying Bsc(Computer Science and Engineering) at Daffodil International University.
-I'm passionate about programming and good at C, C++ and Python. Nowdays I'm working on algorithm to make my problem slolving.
+I'm Saira from Bangladesh and Studying Bsc(Computer Science and Engineering) at Daffodil International University. I'm passionate about programming and good at C, C++ and Python. Nowdays I'm working on algorithm to make my problem slolving skill more efficient and learning JavaScript & React js.
+
 
 <p>
   
@@ -63,6 +63,9 @@ src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Git_icon.png"/
 " target="_blank"><img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/RPC.gif" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+<br>
+
+## Github Stats
 <div>
   
 <a href="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=gotham">
