@@ -60,7 +60,7 @@ src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Git_icon.png"/
 
 ## Recent Works
 <a href="https://github.com/sairatabassum/Rock-Paper-Scissors
-" target="_blank"><img src="https://github.com/AbdullahRafee/AbdullahRafee/blob/main/RPC.gif" 
+" target="_blank"><img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/RPC.gif" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <div>
