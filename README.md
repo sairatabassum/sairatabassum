@@ -1,7 +1,11 @@
 <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Group%203.png">
+<hr>
+<!-- ## Hello, Welcome to my github. <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/jumping.gif" width="30px"> -->
 
-## Hello, Welcome to my github. <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/jumping.gif" width="30px">
 
+### Hey <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Hi.gif" width="25px">
+I'm Saira from Bangladesh and Studying Bsc(Computer Science and Engineering) at Daffodil International University.
+I'm passionate about programming and good at C, C++ and Python. Nowdays I'm working on algorithm to make my problem slolving.
 
 <p>
   
@@ -20,17 +24,7 @@
 </p>
 <br>
 
-### 💻 About me
-
-- 🏫 Studying Bsc(Computer Science and Engineering) at Daffodil International University.
-- 💻 Love Programming
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning Algorithm & React js
-- 💬 Ask me about anything
-
-<br>
-
-### Languages and Tools
+### Skills
 
 <a href="https://www.python.org" target="_blank"> <img alt="Python" align="left" width="26px" title="Python" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/python.svg"/></a>
 
@@ -62,7 +56,12 @@ src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Git_icon.png"/
 
 <br>
 <br>
-<hr>
+
+
+## Recent Works
+<a href="https://github.com/sairatabassum/Rock-Paper-Scissors
+" target="_blank"><img src="https://github.com/AbdullahRafee/AbdullahRafee/blob/main/RPC.gif" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <div>
   
