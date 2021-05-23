@@ -2,7 +2,7 @@
 <!-- ## Hello, Welcome to my github. <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/jumping.gif" width="30px"> -->
 
 ### Hey <img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Hi.gif" width="25px">
-I'm Saira from Bangladesh and Studying Bsc(Computer Science and Engineering) at Daffodil International University. I'm passionate about programming and good at C, C++ and Python. Now-a-days I'm working on algorithm to make my problem solving skill more efficient and learning JavaScript & React js.
+I'm Saira from Bangladesh and Studying Bsc(Computer Science and Engineering) at Daffodil International University. I'm passionate about programming and good at C and C++ Now-a-days I'm working on algorithm to make my problem solving skill more efficient and learning JavaScript & React js.
 
 
 <p>
