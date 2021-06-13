@@ -22,7 +22,7 @@ I'm Saira from Bangladesh and Studying Bsc(Computer Science and Engineering) at 
 </p>
 <br>
 
-### Skills
+## Skills
 
 <a href="https://www.python.org" target="_blank"> <img alt="Python" align="left" width="26px" title="Python" src="https://raw.githubusercontent.com/sairatabassum/sairatabassum/main/svg/python.svg"/></a>
 
