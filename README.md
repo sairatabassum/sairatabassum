@@ -57,7 +57,7 @@ src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/Git_icon.png"/
 
 
 ## Recent Works
-<a href="https://github.com/sairatabassum/Workouts-Map" target="_blank"><img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/ezgif.com-gif-maker%20(4).gif" 
+<a href="https://github.com/sairatabassum/Workouts-Map" target="_blank"><img src="https://github.com/sairatabassum/sairatabassum/blob/main/svg/7N1e(2).gif" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <br>
