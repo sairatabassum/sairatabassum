@@ -69,8 +69,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=tokyonight&env=PAT_1" align="left"/>
 </a>
   
+  
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&env=PAT_1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&env=PAT_1" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&env=PAT_1"/>
 </a>
 </div>
 
