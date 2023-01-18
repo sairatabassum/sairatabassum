@@ -69,11 +69,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=sairatabassum&show_icons=true&theme=tokyonight" align="left"/>
 </a>
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=gotham">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum&hide=xslt&theme=gotham" align="left"/>
-</a>
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairatabassum" align="left"/>
+</a> -->
 </div>
 
 <br>
-
 
